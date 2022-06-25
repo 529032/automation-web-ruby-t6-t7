@@ -9,6 +9,14 @@ Projeto de automação web, utilizando Ruby + Cucumber. Realizado em sala, com a
 [Ruby]{https://rubyinstaller.org/downloads/}
 Instalar a versão recomendada marcada por => da sessão <b>WITH DEVKIT</b>
 
--Instalar as dependências listadas na pasta gemfile
+## 🔧 Instalação
+-Instalar as dependências listadas na pasta gemfile (comando bundle install)
 
+
+
+
+
+
+✒️ Autora:
+Karen Barbosa
 
